@@ -1,0 +1,1 @@
+Storefront program is a practice towards an e-commerce website using Django in the attempt to review Django/python
